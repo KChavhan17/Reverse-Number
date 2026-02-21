@@ -1,7 +1,8 @@
 # 🔁 Reverse Number Program
 
+
 ## 📌 Description
-This project reverses a number entered by the user using JavaScript logic.
+This program  reverses a number entered by the user using JavaScript logic.
 
 ---
 
@@ -14,12 +15,14 @@ This project reverses a number entered by the user using JavaScript logic.
 
 ---
 
+
 ## 💡 Example
 
 Input: 56  
 Output: 65  
 
 ---
+
 
 ## 🚀 Concepts Used
 
@@ -28,6 +31,7 @@ Output: 65
 ✔ Math.floor()  
 ✔ While Loop  
 ✔ alert()
+
 
 ## ✈️Live Demo 乁⁠༼⁠☯⁠‿⁠☯⁠✿⁠༽⁠ㄏ
 🔗https://kchavhan17.github.io/Reverse-Number/
